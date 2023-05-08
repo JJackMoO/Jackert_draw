@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T19:14:38.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Ddypsc73--fTsxSHpXy1" version="21.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-05-08T19:15:40.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="x6IfXcUZmZXhCs9_o-56" version="21.2.9" type="github" pages="4">
   <diagram name="第 1 页" id="ZaXlrRLz04iYmXhUT0vT">
     <mxGraphModel dx="1695" dy="3389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -399,10 +399,10 @@
         <mxCell id="OYx0mLcHSwUc6LhwKkK8-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;关联模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="630" y="561" width="277.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OYx0mLcHSwUc6LhwKkK8-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;基于Span的联合抽取模块&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OYx0mLcHSwUc6LhwKkK8-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;基于Span的联合抽取模块&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="151" y="527" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OYx0mLcHSwUc6LhwKkK8-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;联合训练&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OYx0mLcHSwUc6LhwKkK8-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;联合训练&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="558" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OYx0mLcHSwUc6LhwKkK8-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;句法信息特征&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -411,7 +411,7 @@
         <mxCell id="OYx0mLcHSwUc6LhwKkK8-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;跨度长度特征&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="482.25" y="387" width="136" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OYx0mLcHSwUc6LhwKkK8-10" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;Span混合特征融合层&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OYx0mLcHSwUc6LhwKkK8-10" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Span混合特征融合层&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="122.25" y="350" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OYx0mLcHSwUc6LhwKkK8-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;上下文特征&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
