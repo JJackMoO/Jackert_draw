@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T09:25:04.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="0F8zto1BLQwtNUI4jq3y" version="21.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-22T13:58:48.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="lhwyczrq6qPfpl-HmTI2" version="21.2.9" type="github" pages="3">
   <diagram name="注意力机制结构图" id="oS4Mo0C8fQ5ceyze22jR">
     <mxGraphModel dx="888" dy="3790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -283,7 +283,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="9d_8mDr8r4HT3S4dOtrA" name="字符级特征增强">
+  <diagram id="9d_8mDr8r4HT3S4dOtrA" name="多粒度特征增强模型结构图">
     <mxGraphModel dx="4406" dy="1456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -336,6 +336,14 @@
         <mxCell id="sSzmgmpkiCwtnf7b-o4x-24" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;词级特征增强&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-96" y="1216" width="290" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_h0VIxY9k8zGZL5mcV4A" name="字符级特征增强">
+    <mxGraphModel dx="1966" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
