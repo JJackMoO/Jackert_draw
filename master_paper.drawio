@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T14:54:28.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="dDcx31uLXzLDOZ9BPF1S" version="21.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-22T14:56:51.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="VY9ZhkXNEpHru2dLUf9C" version="21.2.9" type="github" pages="3">
   <diagram name="注意力机制结构图" id="oS4Mo0C8fQ5ceyze22jR">
     <mxGraphModel dx="2752" dy="3792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -340,7 +340,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_h0VIxY9k8zGZL5mcV4A" name="字符级特征增强">
-    <mxGraphModel dx="3931" dy="2080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1619" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -926,10 +926,10 @@
         <mxCell id="Fyb1kaJmvO98nNp4n1AP-308" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;gradientDirection=south;strokeColor=#242424;shadow=0;sketch=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeWidth=3;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="663.5" y="1073" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Fyb1kaJmvO98nNp4n1AP-309" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;gradientDirection=south;strokeColor=#242424;shadow=0;sketch=0;fillColor=#d5e8d4;strokeWidth=3;gradientColor=#242424;" vertex="1" parent="1">
+        <mxCell id="Fyb1kaJmvO98nNp4n1AP-309" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;gradientDirection=south;strokeColor=#242424;shadow=0;sketch=0;fillColor=#d5e8d4;strokeWidth=3;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="663.5" y="1112" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Fyb1kaJmvO98nNp4n1AP-310" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;gradientDirection=south;strokeColor=none;shadow=0;sketch=0;fillColor=#f8cecc;strokeWidth=3;gradientColor=#242424;" vertex="1" parent="1">
+        <mxCell id="Fyb1kaJmvO98nNp4n1AP-310" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;gradientDirection=south;strokeColor=none;shadow=0;sketch=0;fillColor=#f8cecc;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="664.5" y="1152" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fyb1kaJmvO98nNp4n1AP-311" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;fontSize=27;entryX=0.119;entryY=0.564;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;endFill=0;strokeWidth=2;" edge="1" parent="1">
