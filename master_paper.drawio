@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T09:44:02.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="MCgUxdFcKkwbRxlK0BU_" version="23.1.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-03-18T09:49:05.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="M7cyd64NEbPStNTMcj2Q" version="23.1.5" type="github" pages="14">
   <diagram name="注意力机制结构图" id="oS4Mo0C8fQ5ceyze22jR">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -4980,7 +4980,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hb4uY-YBXOmFbj2526Oc" name="用户认证流程图">
-    <mxGraphModel dx="890" dy="1470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1835" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4988,16 +4988,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WAnfJAa-yPWSMXncHxp2-1" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="842" y="325" width="100" height="60" as="geometry" />
+          <mxGeometry x="833" y="325" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WAnfJAa-yPWSMXncHxp2-2" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="842" y="553" width="100" height="60" as="geometry" />
+          <mxGeometry x="836" y="545" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PzJ8xuAxpE8lc1mb0TZY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cqOwn_nt4P_W9JiT1FTe-1" target="PzJ8xuAxpE8lc1mb0TZY-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cqOwn_nt4P_W9JiT1FTe-1" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;用户登录&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="672" y="320" width="130" height="70" as="geometry" />
+          <mxGeometry x="663" y="325" width="108" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PzJ8xuAxpE8lc1mb0TZY-1" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;用户名&lt;br&gt;与密码&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="467" y="325" width="130" height="60" as="geometry" />
@@ -5005,7 +5005,7 @@
         <mxCell id="PzJ8xuAxpE8lc1mb0TZY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PzJ8xuAxpE8lc1mb0TZY-2" target="PzJ8xuAxpE8lc1mb0TZY-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="430" y="464" />
+              <mxPoint x="430" y="457" />
               <mxPoint x="430" y="355" />
             </Array>
           </mxGeometry>
@@ -5024,28 +5024,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PzJ8xuAxpE8lc1mb0TZY-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;解密并验证&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="449.5" y="414" width="165" height="100" as="geometry" />
+          <mxGeometry x="449.5" y="407" width="165" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PzJ8xuAxpE8lc1mb0TZY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PzJ8xuAxpE8lc1mb0TZY-1" target="PzJ8xuAxpE8lc1mb0TZY-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PzJ8xuAxpE8lc1mb0TZY-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;认证成功&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="827" y="428" width="130" height="70" as="geometry" />
+          <mxGeometry x="834.5" y="428" width="103" height="58" as="geometry" />
         </mxCell>
         <mxCell id="QXNceqv9U7vZ1SK0Erof-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QXNceqv9U7vZ1SK0Erof-1" target="QXNceqv9U7vZ1SK0Erof-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QXNceqv9U7vZ1SK0Erof-1" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;session&lt;br&gt;加密存储用户名&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="443" y="553" width="178" height="60" as="geometry" />
+          <mxGeometry x="443" y="546" width="178" height="54" as="geometry" />
         </mxCell>
         <mxCell id="QXNceqv9U7vZ1SK0Erof-2" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;Token&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="680" y="553" width="100" height="60" as="geometry" />
+          <mxGeometry x="674" y="544" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QXNceqv9U7vZ1SK0Erof-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QXNceqv9U7vZ1SK0Erof-3" target="PzJ8xuAxpE8lc1mb0TZY-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QXNceqv9U7vZ1SK0Erof-3" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;缓存&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="680" y="434" width="100" height="60" as="geometry" />
+          <mxGeometry x="674" y="427" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QXNceqv9U7vZ1SK0Erof-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QXNceqv9U7vZ1SK0Erof-2" target="QXNceqv9U7vZ1SK0Erof-3">
           <mxGeometry relative="1" as="geometry" />
