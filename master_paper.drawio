@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T23:07:25.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="jK3A6SbZDda1zLUU37UU" version="23.1.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-03-27T19:05:15.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="IQ1k9-0zCy0Ov2LkViJD" version="24.2.0" type="github" pages="15">
   <diagram name="注意力机制结构图" id="oS4Mo0C8fQ5ceyze22jR">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -3650,7 +3650,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ssIpHmdBxQFpS-GlFv-c" name="BERT">
-    <mxGraphModel dx="1966" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="678" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5068,6 +5068,53 @@
         </mxCell>
         <mxCell id="QXNceqv9U7vZ1SK0Erof-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PzJ8xuAxpE8lc1mb0TZY-8" target="WAnfJAa-yPWSMXncHxp2-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="a_Gc8tAgZc0Rs0-ka06m" name="功能设计">
+    <mxGraphModel dx="969" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="X7hkdczDE7Qow7f6US_4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="X7hkdczDE7Qow7f6US_4-1" target="X7hkdczDE7Qow7f6US_4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="X7hkdczDE7Qow7f6US_4-1" target="X7hkdczDE7Qow7f6US_4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-1" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;可度量数量信息抽取系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="X7hkdczDE7Qow7f6US_4-2" target="X7hkdczDE7Qow7f6US_4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="X7hkdczDE7Qow7f6US_4-2" target="X7hkdczDE7Qow7f6US_4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="X7hkdczDE7Qow7f6US_4-2" target="X7hkdczDE7Qow7f6US_4-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="X7hkdczDE7Qow7f6US_4-2" target="X7hkdczDE7Qow7f6US_4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-2" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;系统管理员模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-5" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;业务人员模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-8" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;用户管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="137" y="426" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-12" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;权限管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="217" y="426" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;登录注册&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="297" y="426" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;身份验证&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="377" y="426" width="40" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
