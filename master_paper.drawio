@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T19:05:15.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="IQ1k9-0zCy0Ov2LkViJD" version="24.2.0" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2024-03-27T19:10:45.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gPFcCyjnqESKFSEUqbQ-" version="24.2.0" type="github" pages="15">
   <diagram name="注意力机制结构图" id="oS4Mo0C8fQ5ceyze22jR">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -5084,7 +5084,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X7hkdczDE7Qow7f6US_4-1" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;可度量数量信息抽取系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="190" width="340" height="60" as="geometry" />
+          <mxGeometry x="311" y="190" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X7hkdczDE7Qow7f6US_4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="X7hkdczDE7Qow7f6US_4-2" target="X7hkdczDE7Qow7f6US_4-8">
           <mxGeometry relative="1" as="geometry" />
@@ -5098,23 +5098,47 @@
         <mxCell id="X7hkdczDE7Qow7f6US_4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="X7hkdczDE7Qow7f6US_4-2" target="X7hkdczDE7Qow7f6US_4-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X7hkdczDE7Qow7f6US_4-2" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;系统管理员模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="130" y="320" width="300" height="60" as="geometry" />
+        <mxCell id="X7hkdczDE7Qow7f6US_4-2" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;系统管理员模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="129" y="320" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X7hkdczDE7Qow7f6US_4-5" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;业务人员模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="520" y="320" width="340" height="60" as="geometry" />
+        <mxCell id="X7hkdczDE7Qow7f6US_4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="X7hkdczDE7Qow7f6US_4-5" target="X7hkdczDE7Qow7f6US_4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="X7hkdczDE7Qow7f6US_4-5" target="X7hkdczDE7Qow7f6US_4-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="X7hkdczDE7Qow7f6US_4-5" target="X7hkdczDE7Qow7f6US_4-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="X7hkdczDE7Qow7f6US_4-5" target="X7hkdczDE7Qow7f6US_4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-5" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;业务人员模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="526" y="320" width="305" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X7hkdczDE7Qow7f6US_4-8" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;用户管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="137" y="426" width="40" height="120" as="geometry" />
+          <mxGeometry x="139" y="426" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="X7hkdczDE7Qow7f6US_4-12" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;权限管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="217" y="426" width="40" height="120" as="geometry" />
+          <mxGeometry x="219" y="426" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="X7hkdczDE7Qow7f6US_4-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;登录注册&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="297" y="426" width="40" height="120" as="geometry" />
+          <mxGeometry x="299" y="426" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="X7hkdczDE7Qow7f6US_4-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;身份验证&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="377" y="426" width="40" height="120" as="geometry" />
+          <mxGeometry x="379" y="426" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;身份验证&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="786" y="426" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;内容修改&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="702" y="426" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;信息抽取&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="616" y="426" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="X7hkdczDE7Qow7f6US_4-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;文本清洗&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="532" y="426" width="40" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
